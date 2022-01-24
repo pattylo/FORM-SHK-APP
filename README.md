@@ -1,8 +1,10 @@
 # version1
 
-A new Flutter project.
+This is my first Flutter project based upon previous SHK-FORM WeChat mini program.
 
 ## Getting Started
+
+<!-->
 
 This project is a starting point for a Flutter application.
 
